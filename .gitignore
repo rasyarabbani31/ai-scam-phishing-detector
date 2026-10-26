@@ -13,9 +13,9 @@ venv/
 env/
 .env
 
-# Streamlit cache
-.streamlit/
-
-# IDE
+# Virtual environment
+venv/
+env/
+.env
 .vscode/
 .idea/
